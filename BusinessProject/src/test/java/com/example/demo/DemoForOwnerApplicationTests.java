@@ -1,10 +1,10 @@
-package com.business.idea.BusinessIdea;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BusinessIdeaApplicationTests {
+class DemoForOwnerApplicationTests {
 
 	@Test
 	void contextLoads() {
