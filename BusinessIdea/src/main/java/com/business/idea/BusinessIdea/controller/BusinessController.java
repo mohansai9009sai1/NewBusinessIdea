@@ -13,4 +13,10 @@ public class BusinessController {
 		return "SAISAI";
 	}
 
+        @GetMapping("/getBusinessidea")
+	public String getName() {
+		
+		return "SAISAISAI";
+	}
+
 }
